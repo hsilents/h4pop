@@ -1,2 +1,2 @@
 import this
-print("/n")
+print("\n")
